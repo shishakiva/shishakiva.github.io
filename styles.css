@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: pink;
+  height: 12vh;
+}
+
+.navbar img {
+  height: 85%;
+  
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20vw;
+  font-size: 2rem;
+}
+
+main {
+text-align: center;
+}
+
+footer {
+text-align: center;
+}
+  
